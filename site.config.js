@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'DaHais Blog',
-  domain: 'https://www.notion.so/shomain/Shomain-s-Blog-1e1c436505d6486fae1a2f896d0054cf',
+  domain: 'https://shomain.notion.site/Shomain-s-Blog-1e1c436505d6486fae1a2f896d0054cf',
   author: 'Dahai',
 
   // open graph metadata (optional)
